@@ -1,0 +1,19 @@
+PS E:\Python_Workspace\Practice> & C:/Python312/python.exe e:/Python_Workspace/Practice/title.py
+DevTools listening on ws://127.0.0.1:59842/devtools/browser/dc0083e2-3e40-42bb-9b6a-3419451c0629
+   0
+Swag Labs   9
+PS E:\Python_Workspace\Practice> & C:/Python312/python.exe e:/Python_Workspace/Practice/title.py
+PS E:\Python_Workspace\Practice> & C:/Python312/python.exe e:/Python_Workspace/Practice/Ex.py
+
+DevTools listening on ws://127.0.0.1:60903/devtools/browser/70c960cb-563a-4edc-bda5-ea436d632fb5
+Swag Labs
+Accepted usernames are:
+standard_user
+locked_out_user        
+problem_user
+performance_glitch_user
+error_user
+visual_user
+Password for all users:
+secret_sauce
+PS E:\Python_Workspace\Practice> 
